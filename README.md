@@ -160,4 +160,5 @@ Feedstock Maintainers
 =====================
 
 * [@AndrewAnnex](https://github.com/AndrewAnnex/)
+* [@jessemapel](https://github.com/jessemapel/)
 
